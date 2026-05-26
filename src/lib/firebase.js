@@ -6,7 +6,7 @@ import { getStorage } from "firebase/storage";
 const firebaseConfig = {
   apiKey: "AIzaSyA9eAHiK9gY16YsD3Vwl1Yxk_cbN5_8XDU",
   authDomain: "workmate-5879d.firebaseapp.com",
-  databaseURL: "https://workmate-5879d-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  databaseURL: "https://workmate-5879d-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "workmate-5879d",
   storageBucket: "workmate-5879d.appspot.com",
   messagingSenderId: "293083876937",
